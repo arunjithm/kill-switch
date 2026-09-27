@@ -72,7 +72,7 @@ kill-switch-prompt.md            # Single-file version for any LLM
 
 ## Author
 
-Created by Arunjith Mohan Kumar (@ritesandwrites).
+Created by Arunjith M
 
 ## License
 
