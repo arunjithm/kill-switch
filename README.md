@@ -43,7 +43,7 @@ Copy the contents of `kill-switch-prompt.md` into one of these:
 - The first message of a chat, followed by your idea
 
 **Claude app (web, desktop, mobile):**
-1. Download `kill-switch.zip` from the [Releases page](https://github.com/arunjithm/kill-switch/releases/latest).
+1. Download `kill-switch.zip` from the [Releases page](https://github.com/arunjithm/kill-switch/releases).
 2. Go to **Customize > Skills**.
 3. Click **+**, then **Create skill**, then **Upload a skill**, and choose the ZIP.
 4. Make sure the skill is toggled on.
